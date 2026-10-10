@@ -2,7 +2,7 @@
 
 Program **Toko Bunga Dandelion** ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek (PBO) dengan menerapkan tiga fitur utama OOP berdasarkan materi **Encapsulation**, **Inheritance**, dan **Polymorphism**.
 
-## 📝 Penjelasan Konsep PBO pada Kode
+## 📝 Penerapan Konsep PBO pada Kode
 
 ### 1. Encapsulation (Enkapsulasi)
 Enkapsulasi digunakan untuk membatasi hak akses terhadap atribut kelas demi menjaga keamanan data.
