@@ -1,6 +1,6 @@
 # 🌻 Toko Bunga Dandelion |Informasi Katalog Bunga|
 
-Aplikasi **Toko Bunga Dandelion** ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek (PBO) dengan menerapkan tiga fitur utama OOP berdasarkan materi slide/PPT, yaitu **Encapsulation**, **Inheritance**, dan **Polymorphism**.
+Program **Toko Bunga Dandelion** ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek (PBO) dengan menerapkan tiga fitur utama OOP berdasarkan materi **Encapsulation**, **Inheritance**, dan **Polymorphism**.
 
 ## 📝 Penjelasan Konsep PBO pada Kode
 
